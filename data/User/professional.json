@@ -1,0 +1,242 @@
+[
+    {
+        "userId": 1,
+        "email": "ana_perez@gmail.com",
+        "phoneNumber": "2222222222",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 2,
+        "email": "luis_gomez@gmail.com",
+        "phoneNumber": "3333333333",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 3,
+        "email": "carlos_lopez@gmail.com",
+        "phoneNumber": "4444444444",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 4,
+        "email": "maria_hernandez@gmail.com",
+        "phoneNumber": "5555555555",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 5,
+        "email": "jose_martinez@gmail.com",
+        "phoneNumber": "6666666666",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 6,
+        "email": "laura_sanchez@gmail.com",
+        "phoneNumber": "7777777777",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 7,
+        "email": "pedro_torres@gmail.com",
+        "phoneNumber": "8888888888",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 8,
+        "email": "clara_diaz@gmail.com",
+        "phoneNumber": "9999999999",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 9,
+        "email": "juan_castillo@gmail.com",
+        "phoneNumber": "1010101010",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 10,
+        "email": "marta_romero@gmail.com",
+        "phoneNumber": "1212121212",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 11,
+        "email": "raul_garcia@gmail.com",
+        "phoneNumber": "1313131313",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 12,
+        "email": "sofia_moreno@gmail.com",
+        "phoneNumber": "1414141414",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 13,
+        "email": "andres_alvarez@gmail.com",
+        "phoneNumber": "1515151515",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 14,
+        "email": "lucia_vargas@gmail.com",
+        "phoneNumber": "1616161616",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 15,
+        "email": "ricardo_silva@gmail.com",
+        "phoneNumber": "1717171717",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 16,
+        "email": "paula_ruiz@gmail.com",
+        "phoneNumber": "1818181818",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 17,
+        "email": "fernando_jimenez@gmail.com",
+        "phoneNumber": "1919191919",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 18,
+        "email": "natalia_moreno@gmail.com",
+        "phoneNumber": "2020202020",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 19,
+        "email": "diego_castro@gmail.com",
+        "phoneNumber": "2121212121",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 20,
+        "email": "carmen_cruz@gmail.com",
+        "phoneNumber": "2223232323",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 21,
+        "email": "pablo_herrera@gmail.com",
+        "phoneNumber": "2324242424",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 22,
+        "email": "beatriz_ortiz@gmail.com",
+        "phoneNumber": "2425252525",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 23,
+        "email": "jorge_flores@gmail.com",
+        "phoneNumber": "2526262626",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 24,
+        "email": "patricia_leon@gmail.com",
+        "phoneNumber": "2627272727",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 25,
+        "email": "gonzalo_soto@gmail.com",
+        "phoneNumber": "2728282828",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 26,
+        "email": "isabel_ramos@gmail.com",
+        "phoneNumber": "2829292929",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 27,
+        "email": "alvaro_benitez@gmail.com",
+        "phoneNumber": "2929293030",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 28,
+        "email": "monica_reyes@gmail.com",
+        "phoneNumber": "3031313131",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 29,
+        "email": "rodrigo_castillo@gmail.com",
+        "phoneNumber": "3132323232",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    },
+    {
+        "userId": 30,
+        "email": "valeria_soto@gmail.com",
+        "phoneNumber": "3233333333",
+        "password": "pppppppp",
+        "roles": ["professional"],
+        "isActive": true
+    }
+]
