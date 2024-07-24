@@ -42,7 +42,7 @@
     {
         "userId": 6,
         "email": "miriam_rojas@gmail.com",
-        "phoneNumber": 3839393939,
+        "phoneNumber": "3839393939",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -50,7 +50,7 @@
     {
         "userId": 7,
         "email": "rafael_vargas@gmail.com",
-        "phoneNumber": 3939394040,
+        "phoneNumber": "3939394040",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -58,7 +58,7 @@
     {
         "userId": 8,
         "email": "cristina_gil@gmail.com",
-        "phoneNumber": 4040414141,
+        "phoneNumber": "4040414141",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -66,7 +66,7 @@
     {
         "userId": 9,
         "email": "santiago_campos@gmail.com",
-        "phoneNumber": 4142424242,
+        "phoneNumber": "4142424242",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -74,7 +74,7 @@
     {
         "userId": 10,
         "email": "veronica_fuentes@gmail.com",
-        "phoneNumber": 4243434343,
+        "phoneNumber": "4243434343",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -82,7 +82,7 @@
     {
         "userId": 11,
         "email": "ernesto_calderon@gmail.com",
-        "phoneNumber": 4344444444,
+        "phoneNumber": "4344444444",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -90,7 +90,7 @@
     {
         "userId": 12,
         "email": "alicia_miranda@gmail.com",
-        "phoneNumber": 4445454545,
+        "phoneNumber": "4445454545",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -98,7 +98,7 @@
     {
         "userId": 13,
         "email": "ivan_pena@gmail.com",
-        "phoneNumber": 4546464646,
+        "phoneNumber": "4546464646",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -106,7 +106,7 @@
     {
         "userId": 14,
         "email": "gabriela_vega@gmail.com",
-        "phoneNumber": 4647474747,
+        "phoneNumber": "4647474747",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -114,7 +114,7 @@
     {
         "userId": 15,
         "email": "javier_castro@gmail.com",
-        "phoneNumber": 4748484848,
+        "phoneNumber": "4748484848",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -122,7 +122,7 @@
     {
         "userId": 16,
         "email": "laura_espinoza@gmail.com",
-        "phoneNumber": 4849494949,
+        "phoneNumber": "4849494949",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -130,7 +130,7 @@
     {
         "userId": 17,
         "email": "manuel_serrano@gmail.com",
-        "phoneNumber": 4949495050,
+        "phoneNumber": "4949495050",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -138,7 +138,7 @@
     {
         "userId": 18,
         "email": "silvia_navas@gmail.com",
-        "phoneNumber": 5050505151,
+        "phoneNumber": "5050505151",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -146,7 +146,7 @@
     {
         "userId": 19,
         "email": "cristian_munoz@gmail.com",
-        "phoneNumber": 5151525252,
+        "phoneNumber": "5151525252",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
@@ -154,7 +154,7 @@
     {
         "userId": 20,
         "email": "daniela_reyes@gmail.com",
-        "phoneNumber": 5252535353,
+        "phoneNumber": "5252535353",
         "password": "pppppppp",
         "roles": ["client"],
         "isActive": true
