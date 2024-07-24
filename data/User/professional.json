@@ -1,242 +1,662 @@
 [
     {
-        "userId": 1,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fe3"
+        },
+        "user_id": 1,
         "email": "ana_perez@gmail.com",
-        "phoneNumber": "2222222222",
-        "password": "pppppppp",
+        "phone": "2222222222",
+        "password": "$2b$10$lXnBOYy3sZW/OAqvEv7Hiewf9jekSAtIbNBWEiHdUc45mPBsPWqgO",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 2,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fe4"
+        },
+        "user_id": 2,
         "email": "luis_gomez@gmail.com",
-        "phoneNumber": "3333333333",
-        "password": "pppppppp",
+        "phone": "3333333333",
+        "password": "$2b$10$rElvsKWJNRvd3QREdBy/c.cHbRcct5mn1RZI.vbtgcoFnEbtrdFaW",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 3,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fe5"
+        },
+        "user_id": 3,
         "email": "carlos_lopez@gmail.com",
-        "phoneNumber": "4444444444",
-        "password": "pppppppp",
+        "phone": "4444444444",
+        "password": "$2b$10$/78/bTuim2OxSR8EKhxZWesqk/SFk.aSEcdeVGJ8n1v6VU5dKv.f6",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 4,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fe6"
+        },
+        "user_id": 4,
         "email": "maria_hernandez@gmail.com",
-        "phoneNumber": "5555555555",
-        "password": "pppppppp",
+        "phone": "5555555555",
+        "password": "$2b$10$EQ5Ci7uJvvgQS.DKhfaN4eYSwqxq0mvTdRxRjkau4mHBXd.BVbbhS",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 5,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fe7"
+        },
+        "user_id": 5,
         "email": "jose_martinez@gmail.com",
-        "phoneNumber": "6666666666",
-        "password": "pppppppp",
+        "phone": "6666666666",
+        "password": "$2b$10$/1DfHgdTJJENPvBooXw3P.yuLaVmbj7gnPxhjds0i/z2t310w31Jy",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 6,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fe8"
+        },
+        "user_id": 6,
         "email": "laura_sanchez@gmail.com",
-        "phoneNumber": "7777777777",
-        "password": "pppppppp",
+        "phone": "7777777777",
+        "password": "$2b$10$3T5dXDy/9/rWroav7Ctxhuvz7c.2gJ.9sknqe.mSe7aIRlIbHwNTy",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 7,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fe9"
+        },
+        "user_id": 7,
         "email": "pedro_torres@gmail.com",
-        "phoneNumber": "8888888888",
-        "password": "pppppppp",
+        "phone": "8888888888",
+        "password": "$2b$10$8MGOjI9jAB22qDC8tTV1HuF7JhUMSItdJ/RH38AH7qMQdAl4KNlZK",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 8,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fea"
+        },
+        "user_id": 8,
         "email": "clara_diaz@gmail.com",
-        "phoneNumber": "9999999999",
-        "password": "pppppppp",
+        "phone": "9999999999",
+        "password": "$2b$10$br1Sbell40zh//sOLBBwH.qS7D58pBYBqfd5BqNqpF23xiCLwOGLi",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 9,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589feb"
+        },
+        "user_id": 9,
         "email": "juan_castillo@gmail.com",
-        "phoneNumber": "1010101010",
-        "password": "pppppppp",
+        "phone": "1010101010",
+        "password": "$2b$10$xahlE5YJjnhsTGiHv6XiSeawFsXHIEH3cGPtnBjQ/GBd7YKtMYGIu",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 10,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fec"
+        },
+        "user_id": 10,
         "email": "marta_romero@gmail.com",
-        "phoneNumber": "1212121212",
-        "password": "pppppppp",
+        "phone": "1212121212",
+        "password": "$2b$10$po9Ud0it5jpW8axdEZ8RuuIFHGOpnlLo7PtFcrFjBElHnwQi91lNW",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 11,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fed"
+        },
+        "user_id": 11,
         "email": "raul_garcia@gmail.com",
-        "phoneNumber": "1313131313",
-        "password": "pppppppp",
+        "phone": "1313131313",
+        "password": "$2b$10$9dXnNETYN3iW2J5Od/L/ZuraR/PUMcQzQ5UIMUnO1Du9zzM.H2FGq",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 12,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fee"
+        },
+        "user_id": 12,
         "email": "sofia_moreno@gmail.com",
-        "phoneNumber": "1414141414",
-        "password": "pppppppp",
+        "phone": "1414141414",
+        "password": "$2b$10$mAAh.wV2Y4lFMbzlGoQV..k8aLCjenr4hPihVSn8NUdFyWza7nFvS",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 13,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fef"
+        },
+        "user_id": 13,
         "email": "andres_alvarez@gmail.com",
-        "phoneNumber": "1515151515",
-        "password": "pppppppp",
+        "phone": "1515151515",
+        "password": "$2b$10$pcp88vQZq5O6F.ouN.dGjO0Eb9I66po0F6QHeZsdO1N692g4qdiAO",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 14,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff0"
+        },
+        "user_id": 14,
         "email": "lucia_vargas@gmail.com",
-        "phoneNumber": "1616161616",
-        "password": "pppppppp",
+        "phone": "1616161616",
+        "password": "$2b$10$/B1ThPIfIe17HsTBi6foMuq9tzEHiD3DnWhfnztFPlPZvkj2W/y.O",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 15,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff1"
+        },
+        "user_id": 15,
         "email": "ricardo_silva@gmail.com",
-        "phoneNumber": "1717171717",
-        "password": "pppppppp",
+        "phone": "1717171717",
+        "password": "$2b$10$yxeB2A0rfq/DaQ0VGHIYHeqbfb6HmBW3nQw546DMtIrDhohTSXJoK",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 16,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff2"
+        },
+        "user_id": 16,
         "email": "paula_ruiz@gmail.com",
-        "phoneNumber": "1818181818",
-        "password": "pppppppp",
+        "phone": "1818181818",
+        "password": "$2b$10$giyxGRm9BnjCJDVp2o3YWum.f5CPdmyFb5Uakr4nvGLotXlHTpO.a",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 17,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff3"
+        },
+        "user_id": 17,
         "email": "fernando_jimenez@gmail.com",
-        "phoneNumber": "1919191919",
-        "password": "pppppppp",
+        "phone": "1919191919",
+        "password": "$2b$10$wVH.5r3dmT5mDDThz8zqU.UUTsWoiPA6ZiRIUTdQNQZbyZuWw6zBO",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 18,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff4"
+        },
+        "user_id": 18,
         "email": "natalia_moreno@gmail.com",
-        "phoneNumber": "2020202020",
-        "password": "pppppppp",
+        "phone": "2020202020",
+        "password": "$2b$10$Y3PUEdrJh38p./zHLk.Hb.JdTmeQF87OYBTXI4JbVEdX3T1BwXlPG",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 19,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff5"
+        },
+        "user_id": 19,
         "email": "diego_castro@gmail.com",
-        "phoneNumber": "2121212121",
-        "password": "pppppppp",
+        "phone": "2121212121",
+        "password": "$2b$10$ScrBK6PiMY8bZdfkEZMpKO1TkRfvZCz51Qg/HnGXZ4MbJTn06k7km",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 20,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff6"
+        },
+        "user_id": 20,
         "email": "carmen_cruz@gmail.com",
-        "phoneNumber": "2223232323",
-        "password": "pppppppp",
+        "phone": "2223232323",
+        "password": "$2b$10$V6HOTobF/d9AsTNoAeEus.7K1sTFda41XIA62AUbhV/8PEqtf5Gju",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 21,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff7"
+        },
+        "user_id": 21,
         "email": "pablo_herrera@gmail.com",
-        "phoneNumber": "2324242424",
-        "password": "pppppppp",
+        "phone": "2324242424",
+        "password": "$2b$10$ZA1qCL7pf51gXubXjaY.GuoyTEt.n8oRZCMqXe8DcdT9l2vwflu4q",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 22,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff8"
+        },
+        "user_id": 22,
         "email": "beatriz_ortiz@gmail.com",
-        "phoneNumber": "2425252525",
-        "password": "pppppppp",
+        "phone": "2425252525",
+        "password": "$2b$10$M.oGl07gUiLIAGcWYmYTROJkrRKnAKGTwc.8iFKH3RtTxFRIQJjBe",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 23,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ff9"
+        },
+        "user_id": 23,
         "email": "jorge_flores@gmail.com",
-        "phoneNumber": "2526262626",
-        "password": "pppppppp",
+        "phone": "2526262626",
+        "password": "$2b$10$XqPnFUsPKaFB85B79ClsdeCUHYz6Y.AUv9F.zmmxrCElaHLj41wFC",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 24,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ffa"
+        },
+        "user_id": 24,
         "email": "patricia_leon@gmail.com",
-        "phoneNumber": "2627272727",
-        "password": "pppppppp",
+        "phone": "2627272727",
+        "password": "$2b$10$wZU0JnOZm5in7unm/ENrdOHRr94W.kpII6o7Eaa.xSVnegL98ToJG",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 25,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ffb"
+        },
+        "user_id": 25,
         "email": "gonzalo_soto@gmail.com",
-        "phoneNumber": "2728282828",
-        "password": "pppppppp",
+        "phone": "2728282828",
+        "password": "$2b$10$j7Oh/855CvNlFrsoDMlcv.XQSLMiZbJ9wsX52UBTccN9GqLdarAF6",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 26,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ffc"
+        },
+        "user_id": 26,
         "email": "isabel_ramos@gmail.com",
-        "phoneNumber": "2829292929",
-        "password": "pppppppp",
+        "phone": "2829292929",
+        "password": "$2b$10$tWEESdiigoMuE5IbRU4EKucPC8YiEPhRF6eY0VvTNrO3Lv0cwcEaa",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 27,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ffd"
+        },
+        "user_id": 27,
         "email": "alvaro_benitez@gmail.com",
-        "phoneNumber": "2929293030",
-        "password": "pppppppp",
+        "phone": "2929293030",
+        "password": "$2b$10$WC0cGcn8T6j1BGn8H20BBuuxoaPGAxSutimO9SnoGLvHNVeSRsj.O",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 28,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589ffe"
+        },
+        "user_id": 28,
         "email": "monica_reyes@gmail.com",
-        "phoneNumber": "3031313131",
-        "password": "pppppppp",
+        "phone": "3031313131",
+        "password": "$2b$10$cbPnvA7VloQV4JvMKGpOH.7RC6wTqfLC3zd3/vBJpr7FlYgXFBVJ6",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 29,
+        "_id": {
+            "$oid": "66a1502451a46ea84b589fff"
+        },
+        "user_id": 29,
         "email": "rodrigo_castillo@gmail.com",
-        "phoneNumber": "3132323232",
-        "password": "pppppppp",
+        "phone": "3132323232",
+        "password": "$2b$10$05dXN4yeshyUXyXGkRpfOO20N9vxvEEqo8F1RIecDsCGKuqVkGsei",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     },
     {
-        "userId": 30,
+        "_id": {
+            "$oid": "66a1502451a46ea84b58a000"
+        },
+        "user_id": 30,
         "email": "valeria_soto@gmail.com",
-        "phoneNumber": "3233333333",
-        "password": "pppppppp",
+        "phone": "3233333333",
+        "password": "$2b$10$XtctzNNjG86QKkTLnfVgoOEF7hkxyLrKexskqCyquwUQ3e7XStaq6",
         "roles": ["professional"],
-        "isActive": true
+        "deleted_at": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "last_login": {
+            "$date": "2024-07-01T12:34:56Z"
+        },
+        "created_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-01T12:00:00Z"
+        }
     }
 ]
