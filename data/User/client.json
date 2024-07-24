@@ -3,280 +3,280 @@
         "_id": {
             "$oid": "66a1502451a46ea84b589fcf"
         },
-        "userId": 1,
+        "user_id": 1,
         "email": "miguel_acosta@gmail.com",
-        "phoneNumber": "333434343",
+        "phone": "333434343",
         "password": "$2b$10$gZArovmJVZLl4.NmfaUFPO59BZRodotUDb2de5/mOx4UX.kLVZ/E6",
         "roles": ["client", "clientAdmin"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd0"
         },
-        "userId": 2,
+        "user_id": 2,
         "email": "elena_molina@gmail.com",
-        "phoneNumber": "3435353535",
+        "phone": "3435353535",
         "password": "$2b$10$H8zoKC6zrTnGov7cUtw3D.Vyb22uhV/tyrvy14Lpvld.AEoLlgj72",
         "roles": ["client", "clientAdmin"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd1"
         },
-        "userId": 3,
+        "user_id": 3,
         "email": "fabian_blanco@gmail.com",
-        "phoneNumber": "3536363636",
+        "phone": "3536363636",
         "password": "$2b$10$Rbfwj29Ho70LfBbzAlcEbeHh5yFgHBpkgc3S0UCx.nfovGeY9qrvS",
         "roles": ["client", "clientAdmin"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd2"
         },
-        "userId": 4,
+        "user_id": 4,
         "email": "sara_aguilar@gmail.com",
-        "phoneNumber": "3637373737",
+        "phone": "3637373737",
         "password": "$2b$10$SMGrSjWSvNV.HK79m4CKN.qZ2An1MHCx03L2ooXnrU52KA3CuMjKK",
         "roles": ["client", "clientAdmin"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd3"
         },
-        "userId": 5,
+        "user_id": 5,
         "email": "david_ibanez@gmail.com",
-        "phoneNumber": "3738383838",
+        "phone": "3738383838",
         "password": "$2b$10$OXgTb4GNXOu8VFxYYkIpVelgZkPSh0KdS.545sGTbFKbwl.Dy.Yee",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd4"
         },
-        "userId": 6,
+        "user_id": 6,
         "email": "miriam_rojas@gmail.com",
-        "phoneNumber": "3839393939",
+        "phone": "3839393939",
         "password": "$2b$10$FGTElfEVKbXijStTN9V8b.HeG/BH1m68/FGmg.FQ9RVuHt6qE52uK",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd5"
         },
-        "userId": 7,
+        "user_id": 7,
         "email": "rafael_vargas@gmail.com",
-        "phoneNumber": "3939394040",
+        "phone": "3939394040",
         "password": "$2b$10$fd9SJtLnO.ShC9./BAGpHeDlQVKwzFCTvimKsTZ0ALby4oAZx.lLK",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd6"
         },
-        "userId": 8,
+        "user_id": 8,
         "email": "cristina_gil@gmail.com",
-        "phoneNumber": "4040414141",
+        "phone": "4040414141",
         "password": "$2b$10$fq/T5UVPgH9Jrn5vtW6oHeR4kKPG8DSMXrUyUADyzF7jigquvKWwa",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd7"
         },
-        "userId": 9,
+        "user_id": 9,
         "email": "santiago_campos@gmail.com",
-        "phoneNumber": "4142424242",
+        "phone": "4142424242",
         "password": "$2b$10$IbZiGxSc3IwU8F9N1WbPS.AwKjH3SLhboX3PU0b1IVEGJcj8hQCYy",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd8"
         },
-        "userId": 10,
+        "user_id": 10,
         "email": "veronica_fuentes@gmail.com",
-        "phoneNumber": "4243434343",
+        "phone": "4243434343",
         "password": "$2b$10$cjheC8ndhgiCc/uE7sHOmuBq.buQPfMOb1DIJKi9qXvQo1O7StUaW",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fd9"
         },
-        "userId": 11,
+        "user_id": 11,
         "email": "ernesto_calderon@gmail.com",
-        "phoneNumber": "4344444444",
+        "phone": "4344444444",
         "password": "$2b$10$aEr4Rj.nsDxabdFQdKoUs.hS61jTRKJKuZA.SQTmfRNdFXO4xSJFS",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fda"
         },
-        "userId": 12,
+        "user_id": 12,
         "email": "alicia_miranda@gmail.com",
-        "phoneNumber": "4445454545",
+        "phone": "4445454545",
         "password": "$2b$10$7MlBaRII6PZrVXy2FO7pcutMqi3iylN6Gwt.nqdHLwOYjVgLSTg2u",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fdb"
         },
-        "userId": 13,
+        "user_id": 13,
         "email": "ivan_pena@gmail.com",
-        "phoneNumber": "4546464646",
+        "phone": "4546464646",
         "password": "$2b$10$0LsUTiX0/OTiXQqgtnMAQu8ra9v6iqlsNkvShVDpU9oy3VnFYw1uO",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fdc"
         },
-        "userId": 14,
+        "user_id": 14,
         "email": "gabriela_vega@gmail.com",
-        "phoneNumber": "4647474747",
+        "phone": "4647474747",
         "password": "$2b$10$DlFd6BPi4lsHZNQuBFBxgeOQLoNOj/6GnST4teU0ButmzxQ6YjIoe",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fdd"
         },
-        "userId": 15,
+        "user_id": 15,
         "email": "javier_castro@gmail.com",
-        "phoneNumber": "4748484848",
+        "phone": "4748484848",
         "password": "$2b$10$aMYg3z31tDHA0PY89I7Xz.mNLs0YAdpYe1.eudwNRjac1X/p9Q0WK",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fde"
         },
-        "userId": 16,
+        "user_id": 16,
         "email": "laura_espinoza@gmail.com",
-        "phoneNumber": "4849494949",
+        "phone": "4849494949",
         "password": "$2b$10$/d/pkG7MA7b.YXc3BFdHheKmZUy.xH0YzZ74n1lHC13KwlHtkWRDa",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fdf"
         },
-        "userId": 17,
+        "user_id": 17,
         "email": "manuel_serrano@gmail.com",
-        "phoneNumber": "4949495050",
+        "phone": "4949495050",
         "password": "$2b$10$BoDcsmFOTX.MAWMclLVq5uVGuPCRoC/pjJD3vZFqEiBWD6TwTZa0i",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fe0"
         },
-        "userId": 18,
+        "user_id": 18,
         "email": "silvia_navas@gmail.com",
-        "phoneNumber": "5050505151",
+        "phone": "5050505151",
         "password": "$2b$10$LAdLqgw2mIzBnY5cv4yG2O0sgI.ujZf1dok/753Htm5K0Besi1etu",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fe1"
         },
-        "userId": 19,
+        "user_id": 19,
         "email": "cristian_munoz@gmail.com",
-        "phoneNumber": "5151525252",
+        "phone": "5151525252",
         "password": "$2b$10$/N9HWeloY/KNm.L5XiI3H.ekCSvRbKe1jv/IMsk3XbbXwFZvV6TI2",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     },
     {
         "_id": {
             "$oid": "66a1502451a46ea84b589fe2"
         },
-        "userId": 20,
+        "user_id": 20,
         "email": "daniela_reyes@gmail.com",
-        "phoneNumber": "5252535353",
+        "phone": "5252535353",
         "password": "$2b$10$u4j0Tc2.648snHbpGgeTg.3DPxbRQ0THmmivhGhFealSLO/Ai0yf.",
         "roles": ["client"],
+        "last_login": "2024-07-01T12:34:56Z",
         "deleted_at": "2024-07-01T12:34:56Z",
-        "lastLogin": "2024-07-01T12:34:56Z",
-        "createdAt": "2024-07-01T12:00:00Z",
-        "updatedAt": "2024-07-01T12:00:00Z"
+        "created_at": "2024-07-01T12:00:00Z",
+        "updated_at": "2024-07-01T12:00:00Z"
     }
 ]

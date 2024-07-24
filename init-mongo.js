@@ -18,6 +18,6 @@ professional = professional.map(convertToObjectId);
 
 // Inserta los datos en la colección llamada "user"
 db.user.insertMany(client);
-// db.user.insertMany(professional);
+db.user.insertMany(professional);
 
 print('Datos de prueba cargados');
