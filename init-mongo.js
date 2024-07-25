@@ -20,7 +20,6 @@ function convertToObjectId(doc) {
         doc.last_login = new Date(doc.last_login.$date);
         doc.created_at = new Date(doc.created_at.$date);
         doc.updated_at = new Date(doc.updated_at.$date);
-        doc.deleted_at = new Date(doc.deleted_at.$date);
     }
     return doc;
 }
