@@ -9,10 +9,18 @@
         "password": "$2b$10$lXnBOYy3sZW/OAqvEv7Hiewf9jekSAtIbNBWEiHdUc45mPBsPWqgO",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -24,10 +32,18 @@
         "password": "$2b$10$rElvsKWJNRvd3QREdBy/c.cHbRcct5mn1RZI.vbtgcoFnEbtrdFaW",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -39,10 +55,18 @@
         "password": "$2b$10$/78/bTuim2OxSR8EKhxZWesqk/SFk.aSEcdeVGJ8n1v6VU5dKv.f6",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -54,10 +78,18 @@
         "password": "$2b$10$EQ5Ci7uJvvgQS.DKhfaN4eYSwqxq0mvTdRxRjkau4mHBXd.BVbbhS",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -69,10 +101,18 @@
         "password": "$2b$10$/1DfHgdTJJENPvBooXw3P.yuLaVmbj7gnPxhjds0i/z2t310w31Jy",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -84,10 +124,18 @@
         "password": "$2b$10$3T5dXDy/9/rWroav7Ctxhuvz7c.2gJ.9sknqe.mSe7aIRlIbHwNTy",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -99,10 +147,18 @@
         "password": "$2b$10$8MGOjI9jAB22qDC8tTV1HuF7JhUMSItdJ/RH38AH7qMQdAl4KNlZK",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -114,10 +170,18 @@
         "password": "$2b$10$br1Sbell40zh//sOLBBwH.qS7D58pBYBqfd5BqNqpF23xiCLwOGLi",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -129,10 +193,18 @@
         "password": "$2b$10$xahlE5YJjnhsTGiHv6XiSeawFsXHIEH3cGPtnBjQ/GBd7YKtMYGIu",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -144,10 +216,18 @@
         "password": "$2b$10$po9Ud0it5jpW8axdEZ8RuuIFHGOpnlLo7PtFcrFjBElHnwQi91lNW",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -159,10 +239,18 @@
         "password": "$2b$10$9dXnNETYN3iW2J5Od/L/ZuraR/PUMcQzQ5UIMUnO1Du9zzM.H2FGq",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -174,10 +262,18 @@
         "password": "$2b$10$mAAh.wV2Y4lFMbzlGoQV..k8aLCjenr4hPihVSn8NUdFyWza7nFvS",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -189,10 +285,18 @@
         "password": "$2b$10$pcp88vQZq5O6F.ouN.dGjO0Eb9I66po0F6QHeZsdO1N692g4qdiAO",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -204,10 +308,18 @@
         "password": "$2b$10$/B1ThPIfIe17HsTBi6foMuq9tzEHiD3DnWhfnztFPlPZvkj2W/y.O",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -219,10 +331,18 @@
         "password": "$2b$10$yxeB2A0rfq/DaQ0VGHIYHeqbfb6HmBW3nQw546DMtIrDhohTSXJoK",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -234,10 +354,18 @@
         "password": "$2b$10$giyxGRm9BnjCJDVp2o3YWum.f5CPdmyFb5Uakr4nvGLotXlHTpO.a",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -249,10 +377,18 @@
         "password": "$2b$10$wVH.5r3dmT5mDDThz8zqU.UUTsWoiPA6ZiRIUTdQNQZbyZuWw6zBO",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -264,10 +400,18 @@
         "password": "$2b$10$Y3PUEdrJh38p./zHLk.Hb.JdTmeQF87OYBTXI4JbVEdX3T1BwXlPG",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -279,10 +423,18 @@
         "password": "$2b$10$ScrBK6PiMY8bZdfkEZMpKO1TkRfvZCz51Qg/HnGXZ4MbJTn06k7km",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -294,10 +446,18 @@
         "password": "$2b$10$V6HOTobF/d9AsTNoAeEus.7K1sTFda41XIA62AUbhV/8PEqtf5Gju",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -309,10 +469,18 @@
         "password": "$2b$10$ZA1qCL7pf51gXubXjaY.GuoyTEt.n8oRZCMqXe8DcdT9l2vwflu4q",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -324,10 +492,18 @@
         "password": "$2b$10$M.oGl07gUiLIAGcWYmYTROJkrRKnAKGTwc.8iFKH3RtTxFRIQJjBe",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -339,10 +515,18 @@
         "password": "$2b$10$XqPnFUsPKaFB85B79ClsdeCUHYz6Y.AUv9F.zmmxrCElaHLj41wFC",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -354,10 +538,18 @@
         "password": "$2b$10$wZU0JnOZm5in7unm/ENrdOHRr94W.kpII6o7Eaa.xSVnegL98ToJG",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -369,10 +561,18 @@
         "password": "$2b$10$j7Oh/855CvNlFrsoDMlcv.XQSLMiZbJ9wsX52UBTccN9GqLdarAF6",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -384,10 +584,18 @@
         "password": "$2b$10$tWEESdiigoMuE5IbRU4EKucPC8YiEPhRF6eY0VvTNrO3Lv0cwcEaa",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -399,10 +607,18 @@
         "password": "$2b$10$WC0cGcn8T6j1BGn8H20BBuuxoaPGAxSutimO9SnoGLvHNVeSRsj.O",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -414,10 +630,18 @@
         "password": "$2b$10$cbPnvA7VloQV4JvMKGpOH.7RC6wTqfLC3zd3/vBJpr7FlYgXFBVJ6",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -429,10 +653,18 @@
         "password": "$2b$10$05dXN4yeshyUXyXGkRpfOO20N9vxvEEqo8F1RIecDsCGKuqVkGsei",
         "roles": ["professional"],
         "gender": "M",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     },
     {
         "_id": {
@@ -444,9 +676,17 @@
         "password": "$2b$10$XtctzNNjG86QKkTLnfVgoOEF7hkxyLrKexskqCyquwUQ3e7XStaq6",
         "roles": ["professional"],
         "gender": "F",
-        "last_login": "2024-07-01T12:34:56Z",
-        "deleted_at": "2024-07-01T12:34:56Z",
-        "created_at": "2024-07-01T12:00:00Z",
-        "updated_at": "2024-07-01T12:00:00Z"
+        "last_login": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "deleted_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "created_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        },
+        "updated_at": {
+            "$date": "2024-07-25T02:31:13.517Z"
+        }
     }
 ]
