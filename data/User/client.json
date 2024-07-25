@@ -4,6 +4,8 @@
             "$oid": "66a1502451a46ea84b589fcf"
         },
         "user_id": 1,
+        "name": "Miguel",
+        "last_name": "Acosta",
         "email": "miguel_acosta@gmail.com",
         "phone": "+5491134567890",
         "password": "$2b$10$gZArovmJVZLl4.NmfaUFPO59BZRodotUDb2de5/mOx4UX.kLVZ/E6",
@@ -25,6 +27,8 @@
             "$oid": "66a1502451a46ea84b589fd0"
         },
         "user_id": 2,
+        "name": "Elena",
+        "last_name": "Molina",
         "email": "elena_molina@gmail.com",
         "phone": "+5491123487654",
         "password": "$2b$10$H8zoKC6zrTnGov7cUtw3D.Vyb22uhV/tyrvy14Lpvld.AEoLlgj72",
@@ -46,6 +50,8 @@
             "$oid": "66a1502451a46ea84b589fd1"
         },
         "user_id": 3,
+        "name": "Fabián",
+        "last_name": "Blanco",
         "email": "fabian_blanco@gmail.com",
         "phone": "+5491145678901",
         "password": "$2b$10$Rbfwj29Ho70LfBbzAlcEbeHh5yFgHBpkgc3S0UCx.nfovGeY9qrvS",
@@ -67,6 +73,8 @@
             "$oid": "66a1502451a46ea84b589fd2"
         },
         "user_id": 4,
+        "name": "Sara",
+        "last_name": "Aguilar",
         "email": "sara_aguilar@gmail.com",
         "phone": "+5491156789012",
         "password": "$2b$10$SMGrSjWSvNV.HK79m4CKN.qZ2An1MHCx03L2ooXnrU52KA3CuMjKK",
@@ -88,6 +96,8 @@
             "$oid": "66a1502451a46ea84b589fd3"
         },
         "user_id": 5,
+        "name": "David",
+        "last_name": "Ibáñez",
         "email": "david_ibanez@gmail.com",
         "phone": "+5491167890123",
         "password": "$2b$10$OXgTb4GNXOu8VFxYYkIpVelgZkPSh0KdS.545sGTbFKbwl.Dy.Yee",
@@ -109,6 +119,8 @@
             "$oid": "66a1502451a46ea84b589fd4"
         },
         "user_id": 6,
+        "name": "Miriam",
+        "last_name": "Rojas",
         "email": "miriam_rojas@gmail.com",
         "phone": "+5491178901234",
         "password": "$2b$10$FGTElfEVKbXijStTN9V8b.HeG/BH1m68/FGmg.FQ9RVuHt6qE52uK",
@@ -130,6 +142,8 @@
             "$oid": "66a1502451a46ea84b589fd5"
         },
         "user_id": 7,
+        "name": "Rafael",
+        "last_name": "Vargas",
         "email": "rafael_vargas@gmail.com",
         "phone": "+5491189012345",
         "password": "$2b$10$fd9SJtLnO.ShC9./BAGpHeDlQVKwzFCTvimKsTZ0ALby4oAZx.lLK",
@@ -151,6 +165,8 @@
             "$oid": "66a1502451a46ea84b589fd6"
         },
         "user_id": 8,
+        "name": "Cristina",
+        "last_name": "Gil",
         "email": "cristina_gil@gmail.com",
         "phone": "+5491190123456",
         "password": "$2b$10$fq/T5UVPgH9Jrn5vtW6oHeR4kKPG8DSMXrUyUADyzF7jigquvKWwa",
@@ -172,6 +188,8 @@
             "$oid": "66a1502451a46ea84b589fd7"
         },
         "user_id": 9,
+        "name": "Santiago",
+        "last_name": "Campos",
         "email": "santiago_campos@gmail.com",
         "phone": "+5491123567894",
         "password": "$2b$10$IbZiGxSc3IwU8F9N1WbPS.AwKjH3SLhboX3PU0b1IVEGJcj8hQCYy",
@@ -193,6 +211,8 @@
             "$oid": "66a1502451a46ea84b589fd8"
         },
         "user_id": 10,
+        "name": "Verónica",
+        "last_name": "Fuentes",
         "email": "veronica_fuentes@gmail.com",
         "phone": "+5491134678905",
         "password": "$2b$10$cjheC8ndhgiCc/uE7sHOmuBq.buQPfMOb1DIJKi9qXvQo1O7StUaW",
@@ -214,6 +234,8 @@
             "$oid": "66a1502451a46ea84b589fd9"
         },
         "user_id": 11,
+        "name": "Ernesto",
+        "last_name": "Calderón",
         "email": "ernesto_calderon@gmail.com",
         "phone": "+5491145789016",
         "password": "$2b$10$aEr4Rj.nsDxabdFQdKoUs.hS61jTRKJKuZA.SQTmfRNdFXO4xSJFS",
@@ -235,6 +257,8 @@
             "$oid": "66a1502451a46ea84b589fda"
         },
         "user_id": 12,
+        "name": "Alicia",
+        "last_name": "Miranda",
         "email": "alicia_miranda@gmail.com",
         "phone": "+5491156890127",
         "password": "$2b$10$7MlBaRII6PZrVXy2FO7pcutMqi3iylN6Gwt.nqdHLwOYjVgLSTg2u",
@@ -256,6 +280,8 @@
             "$oid": "66a1502451a46ea84b589fdb"
         },
         "user_id": 13,
+        "name": "Iván",
+        "last_name": "Peña",
         "email": "ivan_pena@gmail.com",
         "phone": "+5491167901238",
         "password": "$2b$10$0LsUTiX0/OTiXQqgtnMAQu8ra9v6iqlsNkvShVDpU9oy3VnFYw1uO",
@@ -277,6 +303,8 @@
             "$oid": "66a1502451a46ea84b589fdc"
         },
         "user_id": 14,
+        "name": "Gabriela",
+        "last_name": "Vega",
         "email": "gabriela_vega@gmail.com",
         "phone": "+5491178012349",
         "password": "$2b$10$DlFd6BPi4lsHZNQuBFBxgeOQLoNOj/6GnST4teU0ButmzxQ6YjIoe",
@@ -298,6 +326,8 @@
             "$oid": "66a1502451a46ea84b589fdd"
         },
         "user_id": 15,
+        "name": "Javier",
+        "last_name": "Castro",
         "email": "javier_castro@gmail.com",
         "phone": "+5491189123450",
         "password": "$2b$10$aMYg3z31tDHA0PY89I7Xz.mNLs0YAdpYe1.eudwNRjac1X/p9Q0WK",
@@ -319,6 +349,8 @@
             "$oid": "66a1502451a46ea84b589fde"
         },
         "user_id": 16,
+        "name": "Laura",
+        "last_name": "Espinoza",
         "email": "laura_espinoza@gmail.com",
         "phone": "+5491190234561",
         "password": "$2b$10$/d/pkG7MA7b.YXc3BFdHheKmZUy.xH0YzZ74n1lHC13KwlHtkWRDa",
@@ -340,6 +372,8 @@
             "$oid": "66a1502451a46ea84b589fdf"
         },
         "user_id": 17,
+        "name": "Manuel",
+        "last_name": "Serrano",
         "email": "manuel_serrano@gmail.com",
         "phone": "+5491123698745",
         "password": "$2b$10$BoDcsmFOTX.MAWMclLVq5uVGuPCRoC/pjJD3vZFqEiBWD6TwTZa0i",
@@ -361,6 +395,8 @@
             "$oid": "66a1502451a46ea84b589fe0"
         },
         "user_id": 18,
+        "name": "Silvia",
+        "last_name": "Navas",
         "email": "silvia_navas@gmail.com",
         "phone": "+5491134789650",
         "password": "$2b$10$LAdLqgw2mIzBnY5cv4yG2O0sgI.ujZf1dok/753Htm5K0Besi1etu",
@@ -382,6 +418,8 @@
             "$oid": "66a1502451a46ea84b589fe1"
         },
         "user_id": 19,
+        "name": "Cristian",
+        "last_name": "Muñoz",
         "email": "cristian_munoz@gmail.com",
         "phone": "+5491145890761",
         "password": "$2b$10$/N9HWeloY/KNm.L5XiI3H.ekCSvRbKe1jv/IMsk3XbbXwFZvV6TI2",
@@ -403,6 +441,8 @@
             "$oid": "66a1502451a46ea84b589fe2"
         },
         "user_id": 20,
+        "name": "Daniela",
+        "last_name": "Reyes",
         "email": "daniela_reyes@gmail.com",
         "phone": "+5491156901872",
         "password": "$2b$10$u4j0Tc2.648snHbpGgeTg.3DPxbRQ0THmmivhGhFealSLO/Ai0yf.",
