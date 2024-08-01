@@ -11,6 +11,10 @@
         "password": "$2b$10$gZArovmJVZLl4.NmfaUFPO59BZRodotUDb2de5/mOx4UX.kLVZ/E6",
         "roles": ["client", "clientAdmin"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fcf",
+            "client_id": 1
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -34,6 +38,10 @@
         "password": "$2b$10$H8zoKC6zrTnGov7cUtw3D.Vyb22uhV/tyrvy14Lpvld.AEoLlgj72",
         "roles": ["client", "clientAdmin"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd0",
+            "client_id": 2
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -57,6 +65,10 @@
         "password": "$2b$10$Rbfwj29Ho70LfBbzAlcEbeHh5yFgHBpkgc3S0UCx.nfovGeY9qrvS",
         "roles": ["client", "clientAdmin"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd1",
+            "client_id": 3
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -80,6 +92,10 @@
         "password": "$2b$10$SMGrSjWSvNV.HK79m4CKN.qZ2An1MHCx03L2ooXnrU52KA3CuMjKK",
         "roles": ["client", "clientAdmin"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd2",
+            "client_id": 4
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -103,6 +119,10 @@
         "password": "$2b$10$OXgTb4GNXOu8VFxYYkIpVelgZkPSh0KdS.545sGTbFKbwl.Dy.Yee",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fcf",
+            "client_id": 1
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -126,6 +146,10 @@
         "password": "$2b$10$FGTElfEVKbXijStTN9V8b.HeG/BH1m68/FGmg.FQ9RVuHt6qE52uK",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fcf",
+            "client_id": 1
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -149,6 +173,10 @@
         "password": "$2b$10$fd9SJtLnO.ShC9./BAGpHeDlQVKwzFCTvimKsTZ0ALby4oAZx.lLK",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fcf",
+            "client_id": 1
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -172,6 +200,10 @@
         "password": "$2b$10$fq/T5UVPgH9Jrn5vtW6oHeR4kKPG8DSMXrUyUADyzF7jigquvKWwa",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fcf",
+            "client_id": 1
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -195,6 +227,10 @@
         "password": "$2b$10$IbZiGxSc3IwU8F9N1WbPS.AwKjH3SLhboX3PU0b1IVEGJcj8hQCYy",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd0",
+            "client_id": 2
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -218,6 +254,10 @@
         "password": "$2b$10$cjheC8ndhgiCc/uE7sHOmuBq.buQPfMOb1DIJKi9qXvQo1O7StUaW",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd0",
+            "client_id": 2
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -241,6 +281,10 @@
         "password": "$2b$10$aEr4Rj.nsDxabdFQdKoUs.hS61jTRKJKuZA.SQTmfRNdFXO4xSJFS",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd0",
+            "client_id": 2
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -264,6 +308,10 @@
         "password": "$2b$10$7MlBaRII6PZrVXy2FO7pcutMqi3iylN6Gwt.nqdHLwOYjVgLSTg2u",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd0",
+            "client_id": 2
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -287,6 +335,10 @@
         "password": "$2b$10$0LsUTiX0/OTiXQqgtnMAQu8ra9v6iqlsNkvShVDpU9oy3VnFYw1uO",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd1",
+            "client_id": 3
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -310,6 +362,10 @@
         "password": "$2b$10$DlFd6BPi4lsHZNQuBFBxgeOQLoNOj/6GnST4teU0ButmzxQ6YjIoe",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd1",
+            "client_id": 3
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -333,6 +389,10 @@
         "password": "$2b$10$aMYg3z31tDHA0PY89I7Xz.mNLs0YAdpYe1.eudwNRjac1X/p9Q0WK",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd1",
+            "client_id": 3
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -356,6 +416,10 @@
         "password": "$2b$10$/d/pkG7MA7b.YXc3BFdHheKmZUy.xH0YzZ74n1lHC13KwlHtkWRDa",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd1",
+            "client_id": 3
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -379,6 +443,10 @@
         "password": "$2b$10$BoDcsmFOTX.MAWMclLVq5uVGuPCRoC/pjJD3vZFqEiBWD6TwTZa0i",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd2",
+            "client_id": 4
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -402,6 +470,10 @@
         "password": "$2b$10$LAdLqgw2mIzBnY5cv4yG2O0sgI.ujZf1dok/753Htm5K0Besi1etu",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd2",
+            "client_id": 4
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -425,6 +497,10 @@
         "password": "$2b$10$/N9HWeloY/KNm.L5XiI3H.ekCSvRbKe1jv/IMsk3XbbXwFZvV6TI2",
         "roles": ["client"],
         "gender": "M",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd2",
+            "client_id": 4
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
@@ -448,6 +524,10 @@
         "password": "$2b$10$u4j0Tc2.648snHbpGgeTg.3DPxbRQ0THmmivhGhFealSLO/Ai0yf.",
         "roles": ["client"],
         "gender": "F",
+        "current_client": {
+            "mongo_id": "66a1502451a46ea84b589fd2",
+            "client_id": 4
+        },
         "deleted_at": null,
         "last_login": {
             "$date": "2024-07-25T02:31:13.517Z"
